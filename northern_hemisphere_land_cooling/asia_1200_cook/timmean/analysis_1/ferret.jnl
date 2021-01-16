@@ -1,0 +1,13 @@
+ ! NOAA/PMEL TMAP
+ ! PyFerret v7.42 (optimized)
+ ! Linux 4.4.0-96-generic - 08/01/18
+ ! 21-Sep-18 16:55     
+
+set mode verify
+use sigl_1.nc
+set mode metafile
+fill/nolab/palette=blue_darkred/levels=(-inf)(-1,1,0.1)(inf) tsurf;go land
+frame/file=sigl_1.eps/format="eps"
+frame/file=sigl_1.eps/format=eps
+jhkfasjhkfjhasd
+fill/nolab/palette=blue_darkred/levels=(-inf)(-1,1,0.1)(inf) tsurf;go land

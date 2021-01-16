@@ -1,0 +1,6 @@
+use sigl.nc
+set window/xinches=7.08/yinches=7.08
+define viewport/xlimits=0.1,0.9/ylim=0.1,0.9 v11
+set view v11
+shade/nolab/palette=blue_darkred/levels=(-inf)(-1,1,0.1)(inf) tsurf;go land
+frame/file=figure_nh_cooling.pdf
