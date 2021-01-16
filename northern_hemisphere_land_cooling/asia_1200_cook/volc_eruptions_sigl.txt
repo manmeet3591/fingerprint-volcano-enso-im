@@ -1,0 +1,15 @@
+Ranking, Year, Eruption, Global Forcing
+2, 1258, Samalas, -32.8
+4, 1458, Kuwae, -20.5
+6, 1815, Tambora, -17.1
+7, 1230, UE1230, -15.9
+8, 1783, Laki, -15.5
+12, 1809, UE1809, -12.0
+13, 1108, UE1108, -12.0
+14, 1641, Parker, -11.8
+15, 1601, Huyaputina, -11.6
+17, 1171, UE1171, -11.3
+19, 1695, UE1695, -10.2
+20, 939, Eldgja, -10.1
+21, 1286, Quilotoa, -9.7
+24, 1345, El Chichon, -9.4
