@@ -1,0 +1,85 @@
+
+use Amon_IPSL-CM5A-LR_past1000_r1i1p1_0865_1835_anom_strong1.nc
+set window/xinches=7.08/yinches=7.08
+go margins 0.0 " " " " " "
+define viewport/xlimits=0.0,0.45/ylim=0.65,1.0 v11
+define viewport/xlimits=0.45,0.9/ylim=0.65,1.0 v12
+define viewport/xlimits=0.0,0.45/ylim=0.43,0.78 v21
+define viewport/xlimits=0.45,0.9/ylim=0.43,0.78 v22
+define viewport/xlimits=0.0,0.45/ylim=0.22,0.57 v31
+define viewport/xlimits=0.45,0.9/ylim=0.22,0.57 v32
+define viewport/xlimits=0.0,0.45/ylim=0.0,0.35 v41
+define viewport/xlimits=0.45,0.9/ylim=0.0,0.35 v42
+
+set view v11
+fill/palette=blue_darkred/levels=(-inf)(-5,5,0.5)(inf)/nolab/nokey rsds[y=-40:40,l=36:38@ave]-rsus[y=-40:40,l=36:38@ave]+rlds[y=-40:40,l=36:38@ave]-rlus[y=-40:40,l=36:38@ave];go land
+
+set view v12
+fill/palette=blue_darkred/levels=(-inf)(-5,5,0.5)(inf)/nolab rsds[y=-40:40,l=48:50@ave]-rsus[y=-40:40,l=48:50@ave]+rlds[y=-40:40,l=48:50@ave]-rlus[y=-40:40,l=48:50@ave];go land
+
+set view v21
+fill/palette=blue_darkred/levels=(-inf)(-1.0,1.0,0.05)(inf)/nolab/nokey wap[x=60e:60w,y=-5:5@ave,l=36:38@ave]*100
+vector/ov/len=0.5/nolab ua[x=60e:60w,y=-5:5@ave,l=10:12@ave],wap[x=60e:60w,y=-5:5@ave,l=36:38@ave]*100
+
+set view v22
+fill/palette=blue_darkred/levels=(-inf)(-1.0,1.0,0.05)(inf)/nolab wap[x=60e:60w,y=-5:5@ave,l=48:50@ave]*100
+vector/ov/len=0.5/nolab ua[x=60e:60w,y=-5:5@ave,l=10:12@ave],wap[x=60e:60w,y=-5:5@ave,l=48:50@ave]*100
+
+set view v31
+fill/palette=blue_darkred/levels=(-inf)(-1.0,1.0,0.05)(inf)/nolab/nokey tas[y=-40:40,l=36:38@ave];go land
+
+set view v32
+fill/palette=blue_darkred/levels=(-inf)(-1.0,1.0,0.05)(inf)/nolab tas[y=-40:40,l=48:50@ave];go land
+
+set view v41
+fill/palette=blue_darkred/levels=(-inf)(-1.0,1.0,0.05)(inf)/nolab/nokey wap[x=60:100@ave,y=-30:30,l=42:45@ave]*100
+vector/ov/len=0.5/nolab va[x=60:100@ave,y=-30:30,l=42:45@ave],wap[x=60:100@ave,y=-30:30,l=42:45@ave]*100
+
+set view v42
+fill/palette=blue_darkred/levels=(-inf)(-1.0,1.0,0.05)(inf)/nolab wap[x=60:100@ave,y=-30:30,l=54:57@ave]*100
+vector/ov/len=0.5/nolab va[x=60:100@ave,y=-30:30,l=54:57@ave],wap[x=60:100@ave,y=-30:30,l=54:57@ave]*100
+
+annotate/norm/xpos=-1.0/ypos=5.05/halign=0/angle=0/size=0.14 "+2"
+annotate/norm/xpos=0.5/ypos=5.05/halign=0/angle=0/size=0.14 "+3"
+annotate/norm/xpos=-0.2/ypos=5.05/halign=0/angle=0/size=0.14 "Net Radiation at surface (W/m2)"
+
+
+annotate/norm/xpos=-0.2/ypos=3.7/halign=0/angle=0/size=0.14 "Walker Circulation (averaged over 5S-5N)"
+annotate/norm/xpos=1.2/ypos=3.7/halign=0/angle=0/size=0.14 "*100(m/s)"
+ 
+annotate/norm/xpos=-0.2/ypos=2.4/halign=0/angle=0/size=0.14 "Surface Air Temperature"
+annotate/norm/xpos=1.1/ypos=2.4/halign=0/angle=0/size=0.14 "K"
+annotate/norm/xpos=-0.2/ypos=1.1/halign=0/angle=0/size=0.14 "Hadley Circulation (averaged over 60E-100E)"
+annotate/norm/xpos=1.2/ypos=1.1/halign=0/angle=0/size=0.14 "*100(m/s)"
+annotate/norm/xpos=-0.2/ypos=5.25/halign=0/angle=0/size=0.14 "All fields in anomalies, shading in (c), (d), (g), (h) as vertical velocities"
+annotate/norm/xpos=-0.2/ypos=5.35/halign=0/angle=0/size=0.14 "Vectors in (c), (d), (g), (h) as meridional-vertical winds "
+
+
+
+annotate/norm/xpos=-1.67/ypos=1.8/halign=0/angle=0/size=0.14 "(e)"
+annotate/norm/xpos=-1.67/ypos=0.5/halign=0/angle=0/size=0.14 "(g)"
+annotate/norm/xpos=-1.67/ypos=3.0/halign=0/angle=0/size=0.14 "(c)"
+annotate/norm/xpos=-1.67/ypos=4.3/halign=0/angle=0/size=0.14 "(a)"
+
+annotate/norm/xpos=-1.67/ypos=1.8/halign=0/angle=0/size=0.14 "(e)"
+annotate/norm/xpos=-1.67/ypos=0.5/halign=0/angle=0/size=0.14 "(g)"
+annotate/norm/xpos=-1.67/ypos=3.0/halign=0/angle=0/size=0.14 "(c)"
+annotate/norm/xpos=-1.67/ypos=4.3/halign=0/angle=0/size=0.14 "(a)"
+
+
+
+annotate/norm/xpos=-0.2/ypos=1.8/halign=0/angle=0/size=0.14 "(f)"
+annotate/norm/xpos=-0.2/ypos=0.5/halign=0/angle=0/size=0.14 "(h)"
+annotate/norm/xpos=-0.2/ypos=3.0/halign=0/angle=0/size=0.14 "(d)"
+annotate/norm/xpos=-0.2/ypos=4.3/halign=0/angle=0/size=0.14 "(b)"
+
+annotate/norm/xpos=-0.2/ypos=1.8/halign=0/angle=0/size=0.14 "(f)"
+annotate/norm/xpos=-0.2/ypos=0.5/halign=0/angle=0/size=0.14 "(h)"
+annotate/norm/xpos=-0.2/ypos=3.0/halign=0/angle=0/size=0.14 "(d)"
+annotate/norm/xpos=-0.2/ypos=4.3/halign=0/angle=0/size=0.14 "(b)"
+
+
+
+frame/file=figure_mechanism_2.pdf
+
+

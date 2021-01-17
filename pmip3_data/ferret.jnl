@@ -1,0 +1,79 @@
+ ! NOAA/PMEL TMAP
+ ! PyFerret v7.42 (optimized)
+ ! Linux 4.4.0-96-generic - 08/01/18
+ ! 20-May-19 17:16     
+
+set mode verify
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+go margins 0.2 " " " " " "
+go plot_composite.jnl
+go plot_composite.jnl
+sp vm plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+go plot_composite.jnl
+sp vim plot_composite.jnl
+q
