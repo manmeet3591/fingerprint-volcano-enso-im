@@ -1,0 +1,6 @@
+use Amon_IPSL-CM5A-LR_past1000_r1i1p1_0865_1835_anom_strong1_ci1_jjas_ymean.nc
+use Amon_IPSL-CM5A-LR_past1000_r1i1p1_0865_1835_anom_strong1_nino3_jjas_ymean.nc
+
+plot ua[k=15,i=@ave,j=@ave,d=1]-ua[k=9,i=@ave,j=@ave,d=1]
+plot/ov tas[i=@ave,j=@ave,d=2];go land
+
