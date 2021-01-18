@@ -1,0 +1,597 @@
+Multiproxy El Niño-Southern Oscillation (ENSO) Event Reconstructions
+-----------------------------------------------------------------------
+               World Data Center for Paleoclimatology, Boulder
+                                  and
+                     NOAA Paleoclimatology Program
+-----------------------------------------------------------------------
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!!
+
+
+NAME OF DATA SET: 
+Multiproxy El Niño-Southern Oscillation (ENSO) Event Reconstructions
+
+LAST UPDATE: 3/2009 (Original receipt by WDC Paleo) 
+CONTRIBUTOR: Joëlle L. Gergis, University of Melbourne, Australia. 
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2009-020 
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Gergis, J.L. and A.M. Fowler.  2009.  
+Multiproxy El Niño-Southern Oscillation (ENSO) Event Reconstructions
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2009-020.    
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
+
+
+ORIGINAL REFERENCE: 
+Gergis, J.L. and A.M. Fowler. 2009. 
+A history of ENSO events since A.D. 1525: implications for 
+future climate change. 
+Climatic Change 92:343–387. 
+DOI 10.1007/s10584-008-9476-z
+
+ABSTRACT:
+Reconstructions of past climate are important for providing 
+a historical context for evaluating the nature of 20th century 
+climate change. Here, a number of percentile-based palaeoclimate 
+reconstructions were used to isolate signals of both phases of 
+El Niño-Southern Oscillation (ENSO). A total of 92 (82) El Niño 
+(La Niña) events were reconstructed since A.D. 1525. Significantly, 
+we introduce the most comprehensive La Niña event record compiled 
+to date. This annual record of ENSO events can now be used for 
+independent verification of climate model simulations, reconstructions 
+of ENSO indices and as a chronological control for archaeologists/social 
+scientists interested in human responses to past climate events.
+Although extreme ENSO events are seen throughout the 478-year ENSO 
+reconstruction, approximately 43% of extreme and 28% of all protracted 
+ENSO events (i.e. both El Niño and La Niña phase) occur in the 20th 
+century. The post-1940 period alone accounts for 30% of extreme ENSO 
+years observed since A.D. 1525. These results suggest that ENSO may 
+operate differently under natural (pre-industrial) and anthropogenic 
+background states. As evidence of stresses on water supply, agriculture 
+and natural ecosystems caused by climate change strengthens, studies 
+into how ENSO will operate under global warming should be a global 
+research priority.
+
+
+GEOGRAPHIC REGION: Western and Eastern Pacific 
+PERIOD OF RECORD: 1525 AD - 2002 AD
+
+FUNDING SOURCES: 
+AMF was supported by the Royal Society of New Zealand Marsden Fund 
+(Contract UOA108).
+
+
+DESCRIPTION:  
+Multi-proxy El Niño and La Niña event reconstructions, 
+1525-2002 AD, from Table 9 of Gergis and Fowler 2009.  
+Tree-ring, coral, ice core and documentary records used 
+are detailed in Table 1 in Gergis and Fowler 2009. 
+
+
+
+DATA:  
+1. Gergis and Fowler 2009 El Niño event reconstructions
+
+Column 1: El Niño event, Calendar Year (AD)
+Column 2: Proxy Ratio - number of proxy records indicating ENSO response,
+          relative to all proxy records available for the year
+Column 3: Mean Skill of all proxies used to reconstruct an ENSO event year 
+Column 4: Quality Adjusted magnitude.  Takes replication into account 
+Column 5: Magnitude Classification.  E-Extreme VS=Very Strong S=Strong M=Moderate W=Weak
+
+
+
+El Niño    PR       MS       MQ       MC
+
+2002     1/1,      0.74     0.74       E
+
+1997     1/3,      0.76     0.25       W
+1992     3/5,      0.73     0.44      VS
+1991     3/5,       0.7     0.42      VS
+
+1987     3/6,      0.73     0.37      VS
+1985     2/7,      0.78     0.22       W
+1983     6/9,      0.72     0.48       E
+1982    6/10,      0.78     0.46       E
+1980    4/10,       0.7     0.28       M
+
+1979    4/11,      0.79     0.29       M
+1977    3/11,      0.74   0.20;        W
+1976    5/11,      0.71     0.32       M
+1973    3/11,      0.74      0.2       W
+1972    5/11,      0.76     0.35       M
+
+1969    5/11,      0.73     0.33       S
+1968    5/11,      0.76     0.34       S
+1967    3/11,       0.7     0.19       W
+1966    4/11,       0.8     0.29       M
+1965    5/11,      0.76     0.35       S
+1964    5/11,      0.71     0.32       S
+
+1959    3/11,      0.75      0.2       W
+1958    4/11,      0.74     0.27       M
+1957    5/11,      0.71     0.32       S
+1952    3/11,       0.8     0.22       W
+1951    4/11,      0.79     0.29       M
+
+1949    3/11,      0.75      0.2       W
+1947    3/11,      0.71     0.19       W
+1944    5/11,      0.72     0.33       S
+1942    7/11,      0.72     0.46       E
+1941    7/11,      0.76     0.48       E
+1940    6/11,      0.72     0.39      VS
+
+1939    4/11,      0.77     0.28       M
+1938    4/11,      0.72     0.26       M
+1937    3/11,       0.7     0.19       W
+1935    3/11,      0.72     0.26       W
+1933    3/11,      0.73      0.2       W
+1931    5/11,      0.75     0.34       S
+1930    4/11,      0.74     0.27       M
+
+1926    8/11,      0.74     0.54       E
+1925    5/11,      0.78     0.35       S
+1924    3/11,      0.73      0.2       W
+1920    3/11,      0.82     0.22       W
+
+1919    5/11,      0.75     0.34       S
+1918    5/11,      0.79     0.36      VS
+1915    6/11,       0.8     0.43      VS
+1914    6/11,      0.74      0.4      VS
+1913    6/11,      0.79     0.43      VS
+1912    6/11,      0.74      0.4      VS
+1911    4/11,      0.79     0.29       M
+
+1906    3/11,      0.73      0.2       W
+1905    7/11,      0.76     0.48       E
+1904    3/11,      0.83     0.22       W
+1903    3/11,       0.7     0.19       W
+1902    6/11,      0.76     0.41      VS
+1901    4/11,      0.82      0.3       S
+1900    6/11,      0.75     0.41      VS
+
+1899    4/11,      0.82      0.3       S
+1897    5/11,      0.77      0.3       S
+1896    4/11,      0.76     0.27       M
+1891    6/11,      0.77     0.42      VS
+
+1889    3/11,      0.77     0.21       W
+1888    6/11,      0.73      0.4      VS
+1885    5/11,      0.77     0.35       S
+1884    3/11,      0.73      0.2       W
+1881    4/11,      0.74     0.27       M
+
+1878    4/11,      0.72     0.26       M
+1877    5/11,       0.8     0.37      VS
+1876    3/11,      0.79     0.21       W
+1874    3/11,      0.73      0.2       W
+
+1868    5/11,      0.79     0.36      VS
+1866    5/11,      0.79     0.36      VS
+1865    4/11,       0.8     0.29       M
+1864    3/11,      0.83     0.22       W
+1860    3/11,      0.84     0.23       W
+
+1858    4/11,      0.73     0.27       M
+1857    4/11,      0.71     0.26       M
+1856    4/11,      0.74     0.27       M
+1853    5/11,      0.82     0.37      VS
+1852    3/11,      0.76     0.21       W
+
+1848    3/11,      0.74      0.2       W
+1847    3/11,      0.74      0.2       W
+1846    3/11,      0.75      0.2       W
+1845    6/11,      0.75     0.41      VS
+1844    4/11,      0.79     0.29       M
+
+1838    3/11,       0.8     0.22       W
+1837    4/11,      0.82      0.3       S
+1833    5/11,      0.78     0.35       S
+1832    3/11,       0.8     0.22       W
+
+1829    3/11,      0.74      0.2       W
+1824    4/11,      0.79     0.29       M
+
+1817    4/10,      0.75      0.3       S
+1816    3/10,      0.78     0.23       W
+1815    3/10,      0.77     0.23       W
+1814    3/10,      0.78     0.23       W
+1812    4/10,      0.82     0.33       S
+
+1807    4/10,      0.75      0.3       S
+1806    5/10,      0.79      0.4      VS
+1804    3/10,      0.78     0.23       W
+1803    4/10,      0.82     0.33       S
+
+1799    5/11,      0.76     0.34       S
+1798    3/11,      0.74      0.2       W
+1794    4/11,      0.74     0.27       M
+1793    4/11,      0.74     0.27       M
+1792    3/11,      0.72      0.2       W
+1791    6/11,      0.78     0.42      VS
+
+1784    3/11,      0.72      0.2       W
+1783    4/11,       0.8     0.29       M
+1782    3/11,       0.8     0.22       W
+
+1777    3/11,      0.76     0.21       W
+1770    5/11,      0.79     0.36      VS
+
+1769    4/11,      0.79     0.29       M
+1768    3/11,      0.75      0.2       W
+1766    3/11,      0.76     0.21       W
+
+1754    3/11,      0.75      0.2       W
+
+1748    4/11,      0.77     0.28       M
+1747    4/11,      0.81     0.29       M
+1746    3/11,      0.83     0.22       W
+1744    3/11,      0.83     0.22       W
+
+1738    3/11,      0.71     0.19       W
+1737    7/11,      0.79      0.5       E
+1734    3/11,      0.78     0.21       W
+
+1729    3/11,      0.73      0.2       W
+1728    5/11,      0.78     0.35       S
+1726    3/10,      0.75     0.23       W
+1724    3/10,      0.77     0.23       W
+1723    6/10,      0.76     0.46       E
+1722    4/10,      0.73     0.29       M
+1721    3/10,      0.76     0.23       W
+1720    3/10,      0.77     0.23       W
+
+1719     4/9,      0.75     0.33       S
+1718     5/9,      0.79     0.44       E
+1714    3/10,      0.74     0.22       W
+1713    4/10,      0.74      0.3       M
+1712    3/10,      0.76     0.23       W
+1710    3/10,      0.75     0.23       W
+
+1709    3/10,       0.8     0.24       W
+1707    3/10,      0.78     0.23       W
+1700     3/9,      0.75     0.25       W
+
+1695     3/9,      0.73     0.24       W
+1694     4/9,      0.72     0.32       S
+1692     3/9,      0.73     0.24       W
+
+1687     5/9,      0.79     0.43      VS
+1684     3/9,      0.75     0.25       W
+
+1669     3/9,      0.75     0.25       W
+1665     3/9,      0.75     0.25       W
+1661     4/9,      0.79     0.35       S
+1660     5/9,      0.79     0.44      VS
+
+1659     3/9,      0.84     0.28       M
+1652     3/9,      0.75     0.25       W
+1651     3/9,      0.75     0.25       W
+1650     6/9,      0.79     0.52       E
+
+1648     3/9,      0.82     0.27       M
+1646     3/9,      0.75     0.25       W
+1642     3/9,      0.74     0.24       W
+1641     3/9,      0.75     0.25       W
+
+1639     3/9,      0.72     0.24       W
+1638     3/9,      0.77     0.26       W
+1635     4/9,      0.72     0.32       M
+1630     3/9,      0.83     0.28       M
+
+1621     3/9,      0.76     0.25       W
+1620     3/9,      0.73     0.24       W
+
+1619     4/9,      0.77     0.34       S
+1618     5/9,      0.79     0.44      VS
+1614    3/10,      0.83     0.25       W
+
+1609     3/9,      0.75     0.25       W
+1608     5/9,      0.76     0.42      VS
+1607     5/9,      0.73     0.41      VS
+1601     3/9,      0.78     0.26       M
+
+1597     3/9,       0.8     0.27       M
+1596     5/9,      0.77     0.34       S
+1594     4/9,      0.77     0.34       S
+1591     4/9,      0.74     0.33       S
+
+1585     4/8,      0.74     0.37      VS
+1584     3/8,       0.7     0.26       M
+1583     3/8,      0.72     0.27       M
+
+1574     4/8,      0.74     0.37      VS
+
+1567     3/8,      0.78     0.28       M
+1565     4/8,      0.75     0.38      VS
+1563     3/8,      0.75     0.28       M
+
+1559     4/8,      0.75     0.38      VS
+1558     3/8,      0.78     0.29       M
+1556     4/8,      0.75      0.4      VS
+1554     4/8,      0.79      0.3       S
+
+1544     4/8,      0.75     0.38      VS
+1540     3/8,      0.83     0.31       S
+
+1539     3/8,      0.74     0.28       M
+
+1527     3/8,      0.73     0.27       M
+1526     4/8,      0.72     0.36      VS
+1525     4/8,      0.72     0.36      VS
+
+
+
+
+2. Gergis and Fowler 2009 La Niña event reconstructions
+
+Column 1: La Niña event, Calendar Year (AD)
+Column 2: Proxy Ratio - number of proxy records indicating ENSO response
+          relative to all proxy records available for the year
+Column 3: Mean Skill of all proxies used to reconstruct an ENSO event year 
+Column 4: Quality Adjusted magnitude.  Takes replication into account 
+Column 5: Magnitude Classification.  E-Extreme VS=Very Strong S=Strong M=Moderate W=Weak
+
+
+La Niña    PR       MS       MQ       MC
+
+2000     1/2,      0.73     0.37       S
+
+1998     3/4,      0.68     0.51       E
+1996     2/5,      0.72     0.29       M
+1995     3/6,      0.72     0.33       S
+1990     4/7,      0.69     0.39      VS
+
+1989     5/7,      0.69     0.49      VS
+1988     3/7,      0.67     0.29       M
+1986     3/7,      0.68     0.29       M
+1985     3/8,      0.63     0.24       W
+1984    4/10,      0.67     0.27       M
+
+1975     5/9,      0.66     0.36       S
+1974    9/11,      0.68     0.56       E
+1973    4/11,      0.67     0.24       W
+1972    4/11,      0.68     0.25       W
+1971    7/11,      0.67     0.43      VS
+1970    5/11,      0.65      0.3       M
+
+1968    4/11,      0.67     0.24       W
+1963    4/11,      0.68     0.25       W
+1962    4/11,      0.67     0.25       W
+1960    4/11,      0.67     0.25       W
+
+1959    4/11,      0.69     0.25       W
+1958    5/11,      0.66      0.3       M
+1957    4/11,       0.7     0.25       W
+1956    7/11,      0.68     0.43      VS
+1955    6/11,      0.67     0.36       S
+1953    9/11,      0.68     0.56       E
+1951    5/11,      0.68     0.31       M
+1950    8/11,      0.69      0.5       E
+
+1946    6/11,      0.69     0.38       S
+1945    4/11,      0.69     0.25       W
+1943    4/11,      0.66     0.24       W
+
+1934    3/11,      0.69     0.25       W
+1932    4/11,      0.67     0.24       W
+
+1923    5/11,      0.68     0.31       W
+1922    6/11,      0.69     0.38       S
+1921    4/11,       0.7     0.25       W
+
+1918    6/11,      0.69     0.38       S
+1917    7/11,      0.67     0.43      VS
+1916    6/11,      0.68     0.32       S
+
+1910    8/11,      0.68     0.44      VS
+1909    6/11,       0.7     0.38      VS
+1908    6/11,      0.68     0.32       S
+1907    5/11,      0.67     0.31       M
+1904    5/11,      0.68     0.26       W
+
+1896    4/11,       0.7     0.25       W
+1894    8/11,       0.7     0.51       E
+1893    7/11,      0.69     0.39      VS
+1892    7/11,      0.68     0.38       S
+1891    4/11,      0.69     0.25       W
+1890    6/11,      0.67     0.36       S
+
+1887    7/11,      0.68     0.38      VS
+1886    5/11,      0.67      0.3       M
+1880    7/11,      0.69     0.38      VS
+
+1879    9/11,      0.69     0.51       E
+1878    4/11,      0.67     0.24       W
+1875    6/11,      0.68     0.32       S
+1874    5/11,      0.71     0.32       S
+1873    6/11,       0.7     0.38      VS
+1872    5/11,      0.69     0.31       M
+1871    6/11,      0.72     0.39      VS
+1870    7/11,      0.69     0.39      VS
+
+1868    5/11,       0.7     0.32       S
+1867    6/11,      0.69     0.38       S
+1866    5/11,      0.67     0.31       M
+1864    4/11,      0.71     0.26       W
+1863    7/11,      0.68     0.44      VS
+1862    5/11,      0.69     0.31       M
+1861    8/11,      0.69      0.5      VS
+1860    6/11,       0.7     0.38      VS
+
+1857    4/11,       0.7     0.25       W
+1851    5/11,      0.69     0.31       M
+1850    4/11,      0.67     0.24       W
+
+1849    5/11,      0.68     0.31       M
+1848    4/11,      0.69     0.25       W
+1847    6/11,      0.69     0.38       S
+1843    5/11,       0.7     0.26       W
+1841    4/11,      0.68     0.25       W
+1840    4/11,       0.7     0.25       W
+
+1825    5/11,      0.68     0.31       M
+1823    4/10,      0.71     0.28       M
+1820    5/10,       0.7     0.35       S
+
+1819    5/10,      0.69     0.35       S
+1813    4/10,      0.71     0.29       M
+1811    5/10,      0.69     0.34       S
+1810    5/10,      0.69     0.34       S
+
+1809    5/10,      0.72     0.36       S
+1808    7/10,      0.69     0.48      VS
+1805    7/20,      0.69     0.49      VS
+1802    7/10,      0.68     0.48      VS
+1801    6/10,      0.69     0.42      VS
+
+1798    4/11,       0.7     0.25       W
+1797    5/11,      0.69     0.31       M
+1795    4/11,      0.69     0.25       W
+1790    5/11,       0.7     0.32       S
+
+1789    4/11,      0.71     0.26       W
+1788    6/11,       0.7     0.38      VS
+1787    6/11,      0.69     0.37       S
+1786    5/11,       0.7     0.32       S
+1785    4/11,      0.72     0.26       W
+1782    4/11,       0.7     0.25       W
+1780    5/11,      0.71     0.32       S
+
+1779    5/11,       0.7     0.32       S
+1778    4/11,       0.7     0.26       W
+1776    4/11,      0.72     0.26       W
+1773    4/11,      0.71     0.26       W
+1772    5/11,      0.69     0.31       M
+
+1765    6/11,      0.69     0.37       S
+1763    5/11,       0.7     0.32       S
+1761    5/11,      0.69     0.32       M
+
+1758    4/11,      0.68     0.25       W
+1757    6/11,      0.69     0.37       M
+1756    5/11,      0.69     0.31       M
+1755    5/11,       0.7     0.32       S
+1754    5/11,      0.69     0.31       M
+1753    6/11,      0.69     0.38       S
+1752    7/11.      0.69     0.44      VS
+1751    5/11,      0.69     0.31       M
+1750    5/11,       0.7     0.32       S
+
+1748    4/11,       0.7     0.26       W
+1747    4/11,      0.72     0.26       W
+1745    5/11,      0.71     0.32       S
+1743    6/11,       0.7     0.38      VS
+1742    8/11,       0.7     0.51       E
+1741    5/11,       0.7     0.32       S
+1740    7/11,       0.7     0.45      VS
+
+1739    6/11,       0.7     0.38      VS
+1736    4/11,      0.72     0.26       W
+1735    4/11,      0.72     0.26       W
+1733    6/11,       0.7     0.38      VS
+1732    5/11,      0.69     0.31       M
+1731    5/11,      0.68     0.31       M
+1730    4/11,       0.7     0.25       W
+
+1725    4/10,      0.68     0.27       M
+1724    4/10,      0.69     0.28       M
+
+1716    5/10,       0.7     0.35       S
+1715    5/10,      0.69     0.35       S
+
+1709    4/10,      0.69     0.28       M
+1708    5/10,      0.68     0.34       S
+1702    4/10,      0.69     0.28       M
+1701    4/10,       0.7   0.28.        M
+
+1696     5/9,      0.71     0.39      VS
+1690     4/9,      0.69     0.31       M
+
+1686     4/9,       0.7     0.31       M
+1685     4/9,      0.72     0.32       S
+
+1678     4/9,       0.7     0.31       M
+1676     4/9,      0.72     0.32       S
+1675     4/9,      0.69      0.3       M
+
+1668     4/9,      0.69     0.31       M
+1663     5/9,      0.69     0.39      VS
+
+1658     4/9,       0.7     0.31       M
+1654     5/8,      0.71     0.44      VS
+
+1649     3/8,       0.7     0.26       W
+1648     3/8,      0.72     0.27       W
+1645     6/8,      0.69     0.52       E
+1644     4/8,      0.69     0.34       S
+1642     4/8,       0.7     0.35       S
+1641     5/8,       0.7     0.44      VS
+
+1639     3/8,      0.71     0.27       M
+1638     3/8,      0.72     0.27       M
+1637     4/8,      0.71     0.35       S
+1635     3/8,       0.7     0.27       W
+1632     7/8,      0.69     0.61       E
+1631     5/8,       0.7     0.44      VS
+1630     4/8,      0.68     0.34       S
+
+1629     4/8,      0.69     0.35       S
+1628     3/8,      0.69     0.26       W
+1627     3/8,      0.69     0.26       W
+1626     5/8,      0.69     0.43      VS
+1625     3/8,      0.72     0.27       M
+1624     5/8,      0.71     0.45      VS
+1623     5/8,      0.71     0.44      VS
+1622     4/8,      0.69     0.34       S
+
+1612     4/9,       0.7     0.31       M
+1611     4/9,       0.7     0.35       S
+
+1605     3/7,      0.69      0.3       M
+1604     3/7,      0.69      0.3       M
+1603     3/7,      0.68     0.29       M
+1602     3/7,      0.68     0.29       M
+1601     3/7,       0.7      0.3       M
+1600     4/7,       0.7      0.4      VS
+
+1597     3/7,      0.71      0.3       M
+1593     3/7,      0.72     0.41      VS
+1592     4/7,      0.71      0.4      VS
+1590     3/7,      0.72     0.31       M
+
+1584     4/6,      0.71     0.47      VS
+1583     3/6,      0.71     0.36       S
+1581     3/6,      0.69     0.35       S
+1580     3/6,      0.69     0.35       S
+
+1579     3/6,      0.71     0.36       S
+1578     3/6,      0.71     0.36       S
+1577     3/6,       0.7     0.35       S
+1576     3/6,      0.71     0.36       S
+1573     4/6,       0.7     0.58       E
+1572     5/6,       0.7     0.58       E
+1571     3/6,      0.69     0.35       S
+
+1566     3/6,       0.7     0.35       S
+1561     3/6,      0.71     0.35       S
+1560     4/6,       0.7     0.23      VS
+
+1549     3/6,      0.69     0.35       S
+1548     3/6,      0.71     0.47      VS
+1546     3/6,       0.7     0.35       S
+1544     3/6,       0.7     0.35       S
+1542     3/6,      0.72     0.36       S
+1541     3/6,      0.71     0.36      VS
+1540     3/6,      0.69     0.34       S
+
+1538     3/6,      0.72     0.36       S
+1535     3/6,       0.7     0.35       S
+1533     6/6,       0.7      0.7       E
+1532     4/6,       0.7     0.47      VS
+1531     4/6,       0.7     0.47      VS
+
+1528     5/6,       0.7     0.58       E
+
+
