@@ -1,0 +1,14 @@
+Package: CoinCalc
+Type: Package
+Title: Event coincidence analysis
+Version: 2.0
+Date: 2015-11-11
+Author: Jonatan Siegmund, Potsdam Institute for Climate Impact Research
+Maintainer: <jonatan.siegmund@pik.potsdam.de>
+Description: This package provides functions to perform 'event coincidence analysis' as published by Siegmund et al. (2016)*. Coincidence analysis is a statistical approach to quantify simultaneities of events in (currently) two time series. A typical application of this method could be the analysis of simultaneities of extreme events in one meteorological and one ecological time series. The Package at the current status provides six functions: CC.binarize() binarizes a continuous numeric vector producing a vector of event time series format (ts). CC.ts2es() transforms a vector of event time series format (ts) to event series format (es). CC.es2ts() works the other way round. CC.eca.es() performs event coincidence analysis for two vectors of event series format. CC.eca.ts() performs event coincidence analysis for two vectors of event time series format. CC.plot() creates a plot illustrating the results of an event coincidence analysis between two event time series. Additionally, the package contains two examplary data sets. These can be used to perform the function examples and to re-calculate the examples given in Siegmund et al. (2016).
+* Siegmund, J., Siegmund, N. and Donner, R. (2016): CoinCalc - a new R
+        package for quantifying sumultaneities in two event (time)
+        series. Computers and geosciences, in review.
+License: AGPL
+NeedsCompilation: no
+Packaged: 2017-01-25 09:03:58 UTC; jonatansiegmund
