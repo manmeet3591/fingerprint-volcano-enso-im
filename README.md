@@ -48,7 +48,5 @@ The codes can be found in northern_hemisphere_land_cooling/asia_1200_cook
 
 6. Bayesian analysis—probability of ENSO-IM phase coupling for year (0) conditioned on ENSO (0) (left) and ENSO (0) and Volcano (−1)
 
-7. 
-
-The restarts were identified using identifying_restarts_for_large_ensemble_simulation/pi_control_identify_restarts_final.ipynb
+7. The restarts were identified using identifying_restarts_for_large_ensemble_simulation/pi_control_identify_restarts_final.ipynb
 
