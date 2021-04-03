@@ -44,7 +44,7 @@ Data source: https://www.ncdc.noaa.gov/paleo-search/study/19523
 
 The codes can be found in northern_hemisphere_land_cooling/asia_1200_cook
 
-5. hase coherence analysis of ENSO and IM using Institut Pierre Simon Laplace (IPSL) PMIP3 last-millennium simulations 
+5. Phase coherence analysis of ENSO and IM using Institut Pierre Simon Laplace (IPSL) PMIP3 last-millennium simulations 
 
 6. Bayesian analysis—probability of ENSO-IM phase coupling for year (0) conditioned on ENSO (0) (left) and ENSO (0) and Volcano (−1)
 
