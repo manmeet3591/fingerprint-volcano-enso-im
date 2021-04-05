@@ -118,7 +118,7 @@ The restarts were identified using identifying_restarts_for_large_ensemble_simul
 
 The experiments are performed following the flowchart in the Fig. S7. The schematic in Fig. S7 has been prepared using draw.io and can be found at https://tinyurl.com/37m8rvs8
 
-# 8. Jupyter notebook to reproduce all the figures (main+supplementary) in the paper
+# 8. Jupyter notebooks to reproduce all the figures (main+supplementary) in the paper
 
 https://github.com/manmeet3591/fingerprint-volcano-enso-im/blob/master/figures/fig1/output/figures_final_main.ipynb
 
