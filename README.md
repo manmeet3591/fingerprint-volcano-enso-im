@@ -5,7 +5,7 @@ This repository contains the code for the the study "Fingerprint of Volcanic For
 
 To cite 
 
-    Singh, M., Krishnan, R., Goswami, B., Choudhury, A.D., Swapna, P., Vellore, R., Prajeesh, A.G., Sandeep, N., Venkataraman, C., Donner, R.V. and Marwan, N., 2020. Fingerprint of volcanic forcing on the ENSO–Indian monsoon coupling. Science advances, 6(38), p.eaba8164.
+Singh, M., Krishnan, R., Goswami, B., Choudhury, A.D., Swapna, P., Vellore, R., Prajeesh, A.G., Sandeep, N., Venkataraman, C., Donner, R.V. and Marwan, N., 2020. Fingerprint of volcanic forcing on the ENSO–Indian monsoon coupling. Science advances, 6(38), p.eaba8164.
 
     @article{singh2020fingerprint,
       title={Fingerprint of volcanic forcing on the ENSO--Indian monsoon coupling},
