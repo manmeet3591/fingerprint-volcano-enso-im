@@ -45,11 +45,15 @@ The analysis can be performed using the script phase_coh_1871_2016/codes/main.py
 
 Source of data: Indian Monsoon (AIR: ftp://www.tropmet.res.in/pub/data/rain/iitm-regionrf.txt), ENSO (Nino3: https://psl.noaa.gov/gcos_wgsp/Timeseries/Data/nino3.long.anom.data)
 
-# 2. The statistical significance testing of the phase coherence analysis from observational data is performed by generating 5000 twin surrogates of ENSO and
+# 2. Statistical significance of phase coherence analysis
+
+The statistical significance testing of the phase coherence analysis from observational data is performed by generating 5000 twin surrogates of ENSO and
 IM and performing the phase coherence analysis on all the pairs of ENSO and IM. The distribution of original relative phase difference is plotted with the 
 distribution of 5000 surrogate relative phase difference. The code is present in the directory twin_surr_inst_data/
 
-# 3. The number of surrogates required has been calculated using the methods named Holm's method Dunn-Sidak correction. The material on how to choose number of surrogates 
+# 3. Choosing the number of surrogates
+
+The number of surrogates required has been calculated using the methods named Holm's method Dunn-Sidak correction. The material on how to choose number of surrogates 
 based on the alpha can be seen at the following links
 
 https://www.statisticshowto.com/holm-bonferroni-method/
@@ -117,7 +121,9 @@ The experiments are performed following the flowchart in the Fig. S7. The schema
 # 8. Jupyter notebook to reproduce all the figures (main+supplementary) in the paper
 
 https://github.com/manmeet3591/fingerprint-volcano-enso-im/blob/master/figures/fig1/output/figures_final_main.ipynb
+
 https://github.com/manmeet3591/fingerprint-volcano-enso-im/blob/master/figures/fig1/output/re_review_pi_control_reference_final_minor.ipynb
+
 https://github.com/manmeet3591/fingerprint-volcano-enso-im/blob/master/figures/fig1/output/supplementary_figures_final.ipynb
 
 
