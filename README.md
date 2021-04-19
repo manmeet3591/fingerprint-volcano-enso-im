@@ -110,6 +110,26 @@ There are three datasets which are not open source and I had obtained from the a
  
 3. S. Feng, Q. Hu, Q. Wu, M. E. Mann, A gridded reconstruction of warm season precipitation for Asia spanning the past half millennium. J. Climate 26, 2192–2204 (2013).
 
+The PDO datasets were sourced from the following published studies:
+
+1.  M. E. Mann, Z. Zhang, S. Rutherford, R. S. Bradley, M. K. Hughes, D. Shindell, C. 794 Ammann, G. Faluvegi, F. Ni, Global signatures and dynamical origins of the Little Ice Age and Medieval Climate Anomaly. Science 326(5957), pp.1256-1260 (2009).
+Data-> https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/mann2009b/pdoall.txt
+
+2.  F. Biondi, A. Gershunov, D. R. Cayan, North Pacific decadal climate variability since 1661. J.Clim, 14(1), pp.5-10 (2001).
+Data-> https://www1.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/pdo.txt
+
+3. R. D'Arrigo, R. Wilson, On the Asian expression of the PDO. International Journal of Climatology: A Journal of the Royal Meteorological Society 26(12), pp.1607-1617 (2006).
+
+Data->  ftp://ftp.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/pdo-darrigo2006.txt
+
+4. G. M. MacDonald, R. A. Case, Variations in the Pacific Decadal Oscillation over the past millennium. Geophy. Res. Lett. 32(8) (2005).
+
+Data->  https://www1.ncdc.noaa.gov/pub/data/paleo/treering/reconstructions/pdo-macdonald2005.txt
+
+The volcanic radiative forcing data was used from Sigl et al 2015. The data can be found at the link below:
+
+https://static-content.springer.com/esm/art%3A10.1038%2Fnature14565/MediaObjects/41586_2015_BFnature14565_MOESM47_ESM.xlsx
+
 The datasets are mostly in a raw form and first they were filtered or processed to replicate the time series plots as shown in the respective papers. The codes for this preprocessing are in the folders https://github.com/manmeet3591/fingerprint-volcano-enso-im/tree/master/bayesian_paleo/ismr_proxies https://github.com/manmeet3591/fingerprint-volcano-enso-im/tree/master/bayesian_paleo/nino3_proxies The codes for Bayesian probability estimation are available in the folder https://github.com/manmeet3591/fingerprint-volcano-enso-im/tree/master/bayesian_paleo/bayesian 
 
 # 7. IITM-ESM sensitivity experiments 
