@@ -78,7 +78,7 @@ The codes can be found in northern_hemisphere_land_cooling/asia_1200_cook
 
 The data is first transformed to a netcdf form using the code https://github.com/manmeet3591/fingerprint-volcano-enso-im/blob/master/northern_hemisphere_land_cooling/asia_1200_cook/txt2nc.py This is followed by selecting the top 25 volcanic eruptions https://github.com/manmeet3591/fingerprint-volcano-enso-im/blob/master/northern_hemisphere_land_cooling/asia_1200_cook/volc_eruptions_sigl.txt Now if the eruption happened in the year 0, the years from -5 to +1 are selected for each of these eruptions.The final figure is generated using the data and codes at https://github.com/manmeet3591/fingerprint-volcano-enso-im/tree/master/northern_hemisphere_land_cooling/asia_1200_cook/timmean/analysis_1
 
-# 6. Bayesian analysis—probability of ENSO-IM phase coupling for year (0) conditioned on ENSO (0) (left) and ENSO (0) and Volcano (−1)
+# 6. Bayesian analysis—probability of ENSO-IM phase coupling conditioned on ENSO, ENSO and Volcano, ENSO and PDO, ENSO PDO and Volcano
 
 The datasets are first downloaded from the following sources 
 
